@@ -1,0 +1,12 @@
+G:\DotNet\Project\Project\bin\Debug\Project.exe.config
+G:\DotNet\Project\Project\bin\Debug\Project.exe
+G:\DotNet\Project\Project\bin\Debug\Project.pdb
+G:\DotNet\Project\Project\obj\Debug\Project.Form1.resources
+G:\DotNet\Project\Project\obj\Debug\Project.Properties.Resources.resources
+G:\DotNet\Project\Project\obj\Debug\Project.Stand_Level.resources
+G:\DotNet\Project\Project\obj\Debug\Project.TicketBooking1.resources
+G:\DotNet\Project\Project\obj\Debug\Project.csproj.GenerateResource.Cache
+G:\DotNet\Project\Project\obj\Debug\Project.exe
+G:\DotNet\Project\Project\obj\Debug\Project.pdb
+G:\DotNet\Project\Project\obj\Debug\Project.csprojResolveAssemblyReference.cache
+G:\DotNet\Project\Project\obj\Debug\Project.Customer_Information.resources
